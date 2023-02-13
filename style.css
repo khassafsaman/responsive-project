@@ -125,7 +125,7 @@ ul li a {
 
 .list ul li {
    display: inline-block;
-   position: relative;
+   /* position: relative; */
    margin: 0 10px;
 }
 
